@@ -8,10 +8,9 @@
   },
   "author": "webdev4Centauro",
   "license": "ISC",
-  
-  "dependencies":{
-    "proyect2":"^1.0.0",
-    "proyect3":"^1.0.0",
-    "proyect4":"^1.0.0"
+  "dependencies": {
+    "proyect2": "^1.0.0",
+    "proyect3": "^1.0.0",
+    "proyect4": "^1.0.0"
   }
 }
