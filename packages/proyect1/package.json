@@ -1,0 +1,17 @@
+{
+  "name": "proyect1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webdev4Centauro",
+  "license": "ISC",
+  
+  "dependencies":{
+    "proyect2":"^1.0.0",
+    "proyect3":"^1.0.0",
+    "proyect4":"^1.0.0"
+  }
+}
